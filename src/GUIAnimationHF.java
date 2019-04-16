@@ -4,8 +4,6 @@ import com.sun.prism.Graphics;
 import javax.swing.*;
 import java.awt.*;
 
-//public class GUI_Animation_Head_First { }
-
     class SimpleAnimation {
         int x = 70; // создаем два поля в главном классе GUI
         int y = 70; // для координат x и y круга.

@@ -1,6 +1,6 @@
 import java.io.*;
 
-public class Menyaem_SystemIn {
+public class ChangeSystemIn {
     public static void main(String[] args) throws IOException {
 //        String r = null;
 //        int x = 0;

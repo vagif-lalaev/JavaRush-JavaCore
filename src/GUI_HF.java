@@ -2,7 +2,7 @@ import javax.swing.*;
 
 import javax.swing.*;
 
-public class GUI_Head_First {
+public class GUI_HF {
     public static void main(String[] args) {
         JFrame frame = new JFrame(); // создаем фрейм
         JButton button = new JButton("click me"); // создаем кнопку

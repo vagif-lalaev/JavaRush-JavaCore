@@ -1,7 +1,7 @@
 import javax.swing.*;
 import java.awt.event.*;
 
-public class GUI_Head_First2 {
+public class GUI_HF2 {
     public static class SimpleGui1B implements ActionListener {
         JButton button;
 

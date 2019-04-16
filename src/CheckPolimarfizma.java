@@ -1,4 +1,4 @@
-public class Proverka_polimarfizma {
+public class CheckPolimarfizma {
      static class Animal{
          int s = 1;
          String ss = "animal tut";

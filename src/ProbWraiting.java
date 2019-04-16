@@ -1,6 +1,6 @@
 import java.io.*;
 
-public class Probuem_zapisivat {
+public class ProbWraiting {
     public static void main(String[] args) throws IOException {
         File file = new File("C:\\Users\\Вагиф\\YandexDisk\\JAVA\\Проэкты от JavaRush\\Проэкты от JavaRush (полностью рабочая)\\JavaRushTasks\\2.JavaCore\\src\\hi");
         String a = "Hi my friend";

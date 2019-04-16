@@ -1,4 +1,4 @@
-public class ProverkaNaNechotnost {
+public class CheckNaNechotnost {
     public static void main(String[] args) {
         System.out.println(oddOrNot(4));
     }
